@@ -1,0 +1,52 @@
+.about{
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    flex-wrap: wrap;
+    height: 100%;
+
+}
+
+.about .left{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 350px;
+}
+
+.about .left p{
+    margin: 1.2rem 0;
+
+}
+
+.about .right {
+    max-width: 800px;
+}
+
+.right .img-container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    position: relative;
+    align-items: center;
+    text-align: left;
+}
+
+.right .img{
+    max-width: 90%;
+    border: 1px solid #333;
+
+}
+
+.right .top{
+    grid-column: 1 / span 8;
+    grid-row: 1;
+    padding-top: 20%;
+    z-index: 6;
+}
+.right .bottom{
+    grid-column: 4 / -1;
+    grid-row: 1;
+    z-index: 5;
+}
