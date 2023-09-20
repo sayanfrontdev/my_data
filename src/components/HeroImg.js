@@ -17,7 +17,7 @@ const HeroImg = () => {
             <Link to="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:e36352bc-ab2d-377a-98b0-b995bf076dcc"
             className="btn">Download CV
             </Link>
-            <Link to="/contact"
+            <Link to="https://sayanmanda.github.io/contact_me/"
             className="btn btn-light">Contact 
             </Link>
         </div>

@@ -7,31 +7,40 @@ const Footer = () => {
     <div className="footer">
         <div className="footer-container">
 <div className="left">
-    <div className="location">
-        <FaHome size={20} style={{color:"#fff", marginRight: "2rem"}}/>
+<div className="location">
+    <a href="https://www.google.com/maps?q=Kolkata+700152+West+Bengal+India" target="_blank">
+        <FaHome size={15} style={{color:"#fff", marginRight: "2rem"}}/>
         <div>
-            <p>Abash 721102</p>
+            <p>Kolkata 700152</p>
             <p>West Bengal</p>
             <p>India.</p>
-            
         </div>
-        
-    </div>
+    </a>
+</div>
+
     <div className="phone">
-   <h4><FaPhone size={20} style={{color:"#fff", marginRight: "2rem"}}/>
-        +91 6294513408
+    <h4>
+        <a href="tel:+916294513408">
+            <FaPhone size={15} style={{color:"#fff", marginRight: "2rem"}}/>
+            +91 6294513408
+        </a>
     </h4>
-    </div>
+</div>
+
     <div className="email">
-   <h4><FaMailBulk size={20} style={{color:"#fff", marginRight: "2rem"}}/>
-        sayanmanda1922001@gmail.com
+    <h4>
+        <a href="mailto:sayanmanda1922001@gmail.com">
+            <FaMailBulk size={15} style={{color:"#fff", marginRight: "2rem"}}/>
+            sayanmanda1922001@gmail.com
+        </a>
     </h4>
-    </div>
+</div>
         
 </div>
 <div className="right">
     <h1>About Me</h1>
-    <p>I am an ambitious individual who is looking to broaden my career path. My background lays mostly in analyzing and solving critical situations. </p>
+    <p>I am an ambitious individual who is looking to broaden my career path. 
+    My background lays mostly in analyzing and solving critical situations. </p>
     <div className="social">
     <a href="https://www.facebook.com/profile.php?id=100038789199924&mibextid=ZbWKwL" target="_blank">
       <FaFacebook size={30} style={{ color: "#fff", marginRight: "2rem" }} />

@@ -23,7 +23,7 @@ ul{
 }
 
 .btn{
-  padding: 12px 32px;
+  padding: 12px 27px;
   font-size: 1rem;
   text-transform: uppercase;
   background: rgb(110, 36, 194);
@@ -53,5 +53,12 @@ ul{
     font-weight: 600;
     cursor: pointer;
   }
+  *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+  }
+  
   
 }

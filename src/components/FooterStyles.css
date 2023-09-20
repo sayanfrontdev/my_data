@@ -44,15 +44,27 @@
 
 h4{
     font-size: 1rem;
-    padding-bottom: 0.7rem;
+    padding-bottom: 1.7rem;
+    
 }
 
 p{
     font-size: 1.2rem;
 }
 
+.email{
+
+}
+
 @media screen and (max-width: 640px){
     .footer-container{
         grid-template-columns: 1fr;
+    }
+    .location{
+        display: flex;
+        margin-bottom: 0.8rem;
+    }
+    .location p{
+        line-height: 30px;
     }
 }

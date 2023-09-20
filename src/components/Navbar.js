@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <div className={color ? "header header-bg" : "header"}>
         <Link to="/">
-            <h1>INDEX</h1>
+            <h1>WebCraft</h1>
         </Link>
         <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li>
@@ -39,6 +39,10 @@ const Navbar = () => {
             <li>
                 <Link to="/contact">Contact</Link>
             </li>
+            {/* <li>
+                <Link to="/login-signup" className="btn">Log-in/Sign-Up</Link>
+            </li> */}
+            
         </ul>
         <div className="hamburger" onClick={handelClick}>
         {click ? (
