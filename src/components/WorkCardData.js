@@ -18,7 +18,7 @@ const ProjectCardData = [
         imgsrc: pro2,
         title: "Rear axle vibration behavior",
         text: "This project has achieved its aims and objectives successfully and analysis on two different materials.  The natural frequencies and the mode shapes of the shaft using theoretical calculation method were obtained. The comparison between theoretical values and the simulation is calculated from the results it shows the different frequencies of the first three mode shapes.",
-        view: "https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:96368115-a673-3709-a16e-53517f128e90",
+        view: "https://docs.google.com/presentation/d/1wqB95dQ8ckxGPjoD0uwub58wsVBezBye/edit?usp=sharing&ouid=118391921817771356385&rtpof=true&sd=true",
         source: "https://en.wikipedia.org/wiki/Vibration"
     },
     {
