@@ -39,7 +39,7 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro5,
-        title: "Real Estate Website ",
+        title: "Fullstack real Estate Website ",
         text: " Step into the world of real estate design excellence with my portfolio website. Here, I proudly present a collection of my most captivating and user-centric property website designs. As a passionate designer, I've fused creativity, functionality, and innovation to craft immersive online experiences for real estate professionals.  ",
         view:"https://nesting-nucleus-seven.vercel.app/",
 
@@ -47,7 +47,7 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro6,
-        title: "Real-Time Chat Mastery",
+        title: "Real-Time Chat application",
         text: "Welcome to my portfolio website, where I unveil my expertise in crafting dynamic and engaging real-time chat applications. With a deep commitment to innovation and user experience, I've designed and developed interactive platforms that facilitate seamless communication across the web.Also I have using firebase for this website. ",
         view:"https://chat-72.firebaseapp.com/login",
 
