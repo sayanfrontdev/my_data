@@ -4,6 +4,10 @@ import pro3 from "../assets/project_3.png"
 import pro4 from "../assets/project_4.png"
 import pro5 from "../assets/project_5.png"
 import pro6 from "../assets/project_6.png"
+import pro7 from "../assets/project_7.png"
+import pro8 from "../assets/project_8.png" 
+import pro9 from "../assets/project_9.png" 
+
 
 
 const ProjectCardData = [
@@ -52,6 +56,30 @@ const ProjectCardData = [
         view:"https://chat-72.firebaseapp.com/login",
 
         source: "https://github.com/sayanmanda/talkWave-chat.git"
+    },
+    {
+        imgsrc: pro7,
+        title: "React portfolio design",
+        text: "Designing a React portfolio involves creating a visually appealing and functional representation of a person's skills, projects, and experiences. The goal is to provide a comprehensive overview of the individual's capabilities and showcase their work in an engaging manner.The introduction section serves as a welcoming space. ",
+        view:"https://personal-dev.netlify.app/",
+
+        source: "https://github.com/sayanmanda/my-portfolio.git"
+    },
+    {
+        imgsrc: pro8,
+        title: "Amazon clone website",
+        text: "Designing an Amazon clone website involves replicating the key features and aesthetics of the renowned e-commerce platform while incorporating a user-friendly interface and responsive design. The website's layout typically includes a prominent search bar at the top for easy navigation, along with distinct sections for different product categories. ",
+        view:"https://sayanmanda.github.io/amazon-clone/",
+
+        source: "https://github.com/sayanmanda/amazon-clone.git"
+    },
+    {
+        imgsrc: pro9,
+        title: "Fitness Website using React",
+        text: "Creating a fitness website using React can provide a dynamic and engaging platform for users to access information, resources, and tools related to fitness and well-being. React, being a powerful JavaScript library for building user interfaces, enables the development of a responsive. Our platform offers an immersive user experience. ",
+        view:"https://flex-forge-fitness.vercel.app/",
+
+        source: "https://github.com/sayanmanda/FlexForge-fitness.git"
     },
 ]
 
