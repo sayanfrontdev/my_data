@@ -12,7 +12,7 @@ const HeroImg = () => {
         <p>There is no such thing as a boring project.</p>
         <h1>React Developer.</h1>
         <div>
-            <a target="_" href= "https://drive.google.com/file/d/1EeXq0usEN1AW1QLhoa_Q_jemT5mcvGqW/view?usp=sharing" className="btn">Download CV
+            <a target="_" href= "https://drive.google.com/file/d/1cc4RgZEVs-DR-k5J31Mqgyu7K7Cardc2/view?usp=sharing" className="btn">Download CV
             </a>
             <Link to="https://connect-sayan.netlify.app/"
             className="btn btn-light">Contact 
