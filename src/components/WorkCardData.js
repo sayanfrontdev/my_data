@@ -26,7 +26,7 @@ const ProjectCardData = [
         source: "https://en.wikipedia.org/wiki/Vibration"
     },
     {
-        imgsrc: pro3,
+        img: pro3,
         title: "E-Commerce Website Design",
         text: "This e-commerce website design is carefully crafted to provide an intuitive and user-friendly experience for both our clients and their customers. With a clean and modern aesthetic, we aim to create a visually appealing platform that enhances the shopping experience.Each product should have a dedicated page with clear and detailed descriptions, high-quality images. ",
         view:"https://sayanmanda.github.io/e-learning/",
