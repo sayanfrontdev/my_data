@@ -1,4 +1,4 @@
-import { FaFacebook, FaHome, FaLinkedin, FaMailBulk, FaPhone, FaTwitter  } from "react-icons/fa"
+import { FaDiscord, FaFacebook, FaGithub, FaHackerrank, FaHome, FaInstagram, FaLinkedin, FaMailBulk, FaPhone, FaTwitter  } from "react-icons/fa"
 import "./FooterStyles.css"
 import React from 'react'
 
@@ -45,11 +45,23 @@ const Footer = () => {
     <a href="https://www.facebook.com/profile.php?id=100038789199924&mibextid=ZbWKwL" target="_blank">
       <FaFacebook size={30} style={{ color: "#fff", marginRight: "2rem" }} />
     </a>
+    <a href="https://instagram.com/sayanmandal0009?igshid=NGExMmI2YTkyZg==" target="_blank">
+      <FaInstagram size={30} style={{ color: "#fff", marginRight: "2rem" }} />
+    </a>
     <a href="https://twitter.com/SayanMa11753671" target="_blank">
       <FaTwitter size={30} style={{ color: "#fff", marginRight: "2rem" }} />
     </a>
     <a href="https://www.linkedin.com/in/sayan-mandal-b07283204/" target="_blank">
       <FaLinkedin size={30} style={{ color: "#fff", marginRight: "2rem" }} />
+    </a>
+    <a href="https://discord.gg/pAbxnrCN" target="_blank">
+      <FaDiscord size={30} style={{ color: "#fff", marginRight: "2rem" }} />
+    </a>
+    <a href="https://github.com/sayanmanda" target="_blank">
+      <FaGithub size={30} style={{ color: "#fff", marginRight: "2rem" }} />
+    </a>
+    <a href="https://www.hackerrank.com/profile/sayanmanda192201" target="_blank">
+      <FaHackerrank size={30} style={{ color: "#fff", marginRight: "2rem" }} />
     </a>
     
     </div>
