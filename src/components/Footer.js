@@ -1,4 +1,4 @@
-import { FaDiscord, FaFacebook, FaGithub, FaHackerrank, FaHome, FaInstagram, FaLinkedin, FaMailBulk, FaPhone, FaTwitter  } from "react-icons/fa"
+import { FaDiscord, FaFacebook, FaGithub, FaHackerrank, FaHome, FaInstagram, FaLinkedin, FaLocationArrow, FaMailBulk, FaPhone, FaTwitter  } from "react-icons/fa"
 import "./FooterStyles.css"
 import React from 'react'
 
@@ -9,7 +9,7 @@ const Footer = () => {
 <div className="left">
 <div className="location">
     <a href="https://www.google.com/maps?q=Kolkata+700152+West+Bengal+India" target="_blank">
-        <FaHome size={15} style={{color:"#fff", marginRight: "2rem"}}/>
+        <FaLocationArrow size={15} style={{color:"#fff", marginRight: "2rem"}}/>
         <div>
             <p>Kolkata 700152</p>
             <p>West Bengal</p>

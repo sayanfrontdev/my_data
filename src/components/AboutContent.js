@@ -1,12 +1,19 @@
 import { Link } from "react-router-dom";
 import "./AboutContentStyles.css";
 
-import React from 'react'
+import React, { useState } from 'react';
 import React1 from "../assets/react1.jpg";
 import React2 from "../assets/react2.png";
 
 
 const AboutContent = () => {
+    const [isImageClicked, setIsImageClicked] = useState(false);
+
+    const handleImageClick = () => {
+      setIsImageClicked(true);
+  
+      // You can add additional logic or actions here if needed
+    };
   return (
     <div className="about">
         <div className="left">
@@ -18,12 +25,12 @@ const AboutContent = () => {
 
         </div>
         <div className="right">
-        <div className="img-container">
-            <div className="img-stack top">
-            <a href="https://github.com/sayanmanda">
-                <img src={React1} className="img" alt="true" />
-            </a>
-            </div>
+      <div className={`img-container ${isImageClicked ? 'clicked' : ''}`}>
+        <div className="img-stack top">
+          <a href="https://github.com/sayanmanda" onClick={handleImageClick}>
+            <img src={React1} className="img" alt="true" />
+          </a>
+        </div>
             <div className="img-stack bottom">
                 <img src={React2}
                     className="img"
