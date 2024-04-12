@@ -15,8 +15,8 @@ const ProjectCardData = [
         imgsrc: pro1,
         title: "Simple Portfolio Web Design",
         text: "The design will utilize sample white space, with a clean and uncluttered layout. This ensures that your work takes center stage and creates a professional and modern look.The website will be responsive, meaning it adapts to different screen sizes and devices, such as desktops, laptops, tablets, and mobile phones. This ensures a seamless user experience across all devices.",
-        view:"https://sayanmanda.github.io/Imsayan.github.io/",
-        source: "https://github.com/sayanmanda/Imsayan.github.io"
+        view:"https://webpage-dev-seven.vercel.app/",
+        source: "https://github.com/sayanmanda/webpage.dev.git"
     },
     {
         imgsrc: pro2,
@@ -67,11 +67,11 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro8,
-        title: "Amazon clone website",
-        text: "Designing an Amazon clone website involves replicating the key features and aesthetics of the renowned e-commerce platform while incorporating a user-friendly interface and responsive design. The website's layout typically includes a prominent search bar at the top for easy navigation, along with distinct sections for different product categories. ",
-        view:"https://sayanmanda.github.io/amazon-clone/",
+        title: "Flipkart clone website",
+        text: "Designing an Flipkart clone website involves replicating the key features and aesthetics of the renowned e-commerce platform while incorporating a user-friendly interface and responsive design. The website's layout typically includes a prominent search bar at the top for easy navigation, along with distinct sections for different product categories. ",
+        view:"https://flipkart-clone-web.vercel.app/",
 
-        source: "https://github.com/sayanmanda/amazon-clone.git"
+        source: "https://github.com/sayanmanda/flipkart-clone.git"
     },
     {
         imgsrc: pro9,
