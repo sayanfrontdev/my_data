@@ -19,7 +19,7 @@ const AboutContent = () => {
         <div className="left">
             <h1>Who Am I?</h1>
             <p>Im a react front-end developer.  I am a strong believer in clean code practices and maintainable software architecture. </p>
-            <Link to="https://connect-sayan.netlify.app/">
+            <Link to="https://connect-me-three.vercel.app/">
                 <button className="btn">Contact</button>
             </Link>
 

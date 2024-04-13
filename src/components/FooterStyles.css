@@ -52,9 +52,17 @@ p{
     font-size: 1.2rem;
 }
 
-.email{
 
-}
+.btn-footer{
+    padding: 8px -1px;
+    font-size: .5rem;
+    text-transform: uppercase;
+    background: rgb(213, 216, 44);
+    color: #040404;
+    border: 1px solid #fff;
+    font-weight: 600;
+    cursor: pointer;
+  }
 
 @media screen and (max-width: 640px){
     .footer-container{
