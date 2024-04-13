@@ -29,7 +29,7 @@ const ProjectCardData = [
         imgsrc: pro3,
         title: "E-Learning Website Design",
         text: "This e-commerce website design is carefully crafted to provide an intuitive and user-friendly experience for both our clients and their customers. With a clean and modern aesthetic, we aim to create a visually appealing platform that enhances the shopping experience.Each product should have a dedicated page with clear and detailed descriptions, high-quality images. ",
-        view:"https://sayanmanda.github.io/e-learning/",
+        view:"https://e-learning-blush-nu.vercel.app/",
 
         source: "https://github.com/sayanmanda/e-learning"
     },
@@ -37,7 +37,7 @@ const ProjectCardData = [
         imgsrc: pro4,
         title: "Digital Commerce Creations",
         text: " Welcome to my portfolio website, where I proudly present a curated selection of my finest e-commerce website designs. With a passion for creating visually stunning and user-friendly online shopping experiences, I've harnessed the power of design, functionality, and innovation to help businesses thrive in the digital marketplace.   ",
-        view:"https://storehook-online-store.netlify.app/",
+        view:"https://storehook-stores.vercel.app/",
 
         source: "https://github.com/sayanmanda/storehook_online_store.git"
     },
