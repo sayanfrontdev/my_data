@@ -14,7 +14,7 @@ const HeroImg = () => {
         <div>
             <a target="_" href= "https://drive.google.com/file/d/1cc4RgZEVs-DR-k5J31Mqgyu7K7Cardc2/view?usp=sharing" className="btn">Download CV
             </a>
-            <Link to="https://connect-sayan.netlify.app/"
+            <Link to="https://connect-me-three.vercel.app/"
             className="btn btn-light">Contact 
             </Link>
         </div>
