@@ -55,6 +55,8 @@ const ProjectCardData = [
         text: "Welcome to my portfolio website, where I unveil my expertise in crafting dynamic and engaging real-time chat applications. With a deep commitment to innovation and user experience, I've designed and developed interactive platforms that facilitate seamless communication across the web.Also I have using firebase for this website. ",
         view:"https://chat-72.firebaseapp.com/login",
 
+        
+
         source: "https://github.com/sayanmanda/talkWave-chat.git"
     },
     {

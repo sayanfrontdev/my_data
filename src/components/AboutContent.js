@@ -12,13 +12,15 @@ const AboutContent = () => {
     const handleImageClick = () => {
       setIsImageClicked(true);
   
-      // You can add additional logic or actions here if needed
+      
+
+      
     };
   return (
     <div className="about">
         <div className="left">
             <h1>Who Am I?</h1>
-            <p>Im a react front-end developer.  I am a strong believer in clean code practices and maintainable software architecture. </p>
+            <p>Im a front-end developer.  I am a strong believer in clean code practices and maintainable software architecture. </p>
             <Link to="https://connect-me-three.vercel.app/">
                 <button className="btn">Contact</button>
             </Link>
