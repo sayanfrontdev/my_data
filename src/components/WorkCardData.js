@@ -63,9 +63,9 @@ const ProjectCardData = [
         imgsrc: pro7,
         title: "React portfolio design",
         text: "Designing a React portfolio involves creating a visually appealing and functional representation of a person's skills, projects, and experiences. The goal is to provide a comprehensive overview of the individual's capabilities and showcase their work in an engaging manner.The introduction section serves as a welcoming space. ",
-        view:"https://personal-dev.netlify.app/",
+        view:"https://my-portfolio-flax-one.vercel.app/",
 
-        source: "https://my-portfolio-flax-one.vercel.app/"
+        source: "https://github.com/sayanfrontdev/my-portfolio.git"
     },
     {
         imgsrc: pro8,
