@@ -16,7 +16,7 @@ const ProjectCardData = [
         title: "Simple Portfolio Web Design",
         text: "The design will utilize sample white space, with a clean and uncluttered layout. This ensures that your work takes center stage and creates a professional and modern look.The website will be responsive, meaning it adapts to different screen sizes and devices, such as desktops, laptops, tablets, and mobile phones. This ensures a seamless user experience across all devices.",
         view:"https://webpage-dev-seven.vercel.app/",
-        source: "https://github.com/sayanmanda/webpage.dev.git"
+        source: "https://github.com/sayanfrontdev/webpage.dev.git"
     },
     {
         imgsrc: pro2,
@@ -31,7 +31,7 @@ const ProjectCardData = [
         text: "This e-commerce website design is carefully crafted to provide an intuitive and user-friendly experience for both our clients and their customers. With a clean and modern aesthetic, we aim to create a visually appealing platform that enhances the shopping experience.Each product should have a dedicated page with clear and detailed descriptions, high-quality images. ",
         view:"https://e-learning-blush-nu.vercel.app/",
 
-        source: "https://github.com/sayanmanda/e-learning"
+        source: "https://github.com/sayanfrontdev/e-learning"
     },
     {
         imgsrc: pro4,
@@ -39,7 +39,7 @@ const ProjectCardData = [
         text: " Welcome to my portfolio website, where I proudly present a curated selection of my finest e-commerce website designs. With a passion for creating visually stunning and user-friendly online shopping experiences, I've harnessed the power of design, functionality, and innovation to help businesses thrive in the digital marketplace.   ",
         view:"https://storehook-stores.vercel.app/",
 
-        source: "https://github.com/sayanmanda/storehook_online_store.git"
+        source: "https://github.com/sayanfrontdev/storehook_online_store.git"
     },
     {
         imgsrc: pro5,
@@ -47,7 +47,7 @@ const ProjectCardData = [
         text: " Step into the world of real estate design excellence with my portfolio website. Here, I proudly present a collection of my most captivating and user-centric property website designs. As a passionate designer, I've fused creativity, functionality, and innovation to craft immersive online experiences for real estate professionals.  ",
         view:"https://nesting-nucleus-seven.vercel.app/",
 
-        source: "https://github.com/sayanmanda/Nesting-nucleus.git"
+        source: "https://github.com/sayanfrontdev/Nesting-nucleus.git"
     },
     {
         imgsrc: pro6,
@@ -57,7 +57,7 @@ const ProjectCardData = [
 
         
 
-        source: "https://github.com/sayanmanda/talkWave-chat.git"
+        source: "https://github.com/sayanfrontdev/talkWave-chat.git"
     },
     {
         imgsrc: pro7,
@@ -65,7 +65,7 @@ const ProjectCardData = [
         text: "Designing a React portfolio involves creating a visually appealing and functional representation of a person's skills, projects, and experiences. The goal is to provide a comprehensive overview of the individual's capabilities and showcase their work in an engaging manner.The introduction section serves as a welcoming space. ",
         view:"https://personal-dev.netlify.app/",
 
-        source: "https://github.com/sayanmanda/my-portfolio.git"
+        source: "https://github.com/sayanfrontdev/my-portfolio.git"
     },
     {
         imgsrc: pro8,
@@ -73,7 +73,7 @@ const ProjectCardData = [
         text: "Designing an Flipkart clone website involves replicating the key features and aesthetics of the renowned e-commerce platform while incorporating a user-friendly interface and responsive design. The website's layout typically includes a prominent search bar at the top for easy navigation, along with distinct sections for different product categories. ",
         view:"https://flipkart-clone-web.vercel.app/",
 
-        source: "https://github.com/sayanmanda/flipkart-clone.git"
+        source: "https://github.com/sayanfrontdev/flipkart-clone.git"
     },
     {
         imgsrc: pro9,
@@ -81,7 +81,7 @@ const ProjectCardData = [
         text: "Creating a fitness website using React can provide a dynamic and engaging platform for users to access information, resources, and tools related to fitness and well-being. React, being a powerful JavaScript library for building user interfaces, enables the development of a responsive. Our platform offers an immersive user experience. ",
         view:"https://flex-forge-fitness.vercel.app/",
 
-        source: "https://github.com/sayanmanda/FlexForge-fitness.git"
+        source: "https://github.com/sayanfrontdev/FlexForge-fitness.git"
     },
 ]
 

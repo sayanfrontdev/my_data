@@ -29,7 +29,7 @@ const AboutContent = () => {
         <div className="right">
       <div className={`img-container ${isImageClicked ? 'clicked' : ''}`}>
         <div className="img-stack top">
-          <a href="https://github.com/sayanmanda" onClick={handleImageClick}>
+          <a href="https://github.com/sayanfrontdev" onClick={handleImageClick}>
             <img src={React1} className="img" alt="true" />
           </a>
         </div>

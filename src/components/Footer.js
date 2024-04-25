@@ -66,7 +66,7 @@ const Footer = () => {
                 <FaLinkedin size={30} style={{ color: "#fff", marginRight: "2rem" }} />
               </a> 
               
-              <a href="https://github.com/sayanmanda" target="_blank">
+              <a href="https://github.com/sayanfrontdev" target="_blank">
                 <FaGithub size={30} style={{ color: "#fff", marginRight: "2rem" }} />
               </a>
               <a href="https://discord.gg/pAbxnrCN" target="_blank">
