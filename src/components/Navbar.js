@@ -40,7 +40,7 @@ const Navbar = () => {
                 <Link to="/contact">Contact</Link>
             </li>
             {/* <li>
-                <Link to="/login-signup" className="btn">Log-in/Sign-Up</Link>
+                <Link to="/login-signup" className="btn">Log-in/Sign-Up</Link>  // This button is not working
             </li> */}
             
         </ul>

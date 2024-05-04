@@ -34,7 +34,7 @@
 }
 
 .img-container.clicked {
-  animation: bounceAndSpin 0.8s ease-out; /* You can adjust the duration and other properties */
+  animation: bounceAndSpin 0.8s ease-out; 
 }
 
 @keyframes bounceAndSpin {

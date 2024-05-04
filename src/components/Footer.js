@@ -4,7 +4,7 @@ import React from 'react'
 
 const Footer = () => {
 
-  // Function to copy email address to clipboard
+
   const copyEmail = () => {
     const emailText = document.getElementById('emailLink').innerText;
     navigator.clipboard.writeText(emailText).then(() => {
